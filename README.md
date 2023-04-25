@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ana-pgodoy
 - 🌱 I’m currently learning programming languages and hardware description languages
-- ✨ I am a student of Communications and Electronics
+- ✨ I am a student of Communications and Electronics Engineering
 - 📫 How to reach me www.linkedin.com/in/ana-godoy-1043b8258
 
 <!---
